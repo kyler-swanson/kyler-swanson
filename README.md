@@ -4,13 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-kyler--swanson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyler-swanson/)](https://www.linkedin.com/in/kyler-swanson/)
 
 - 😁 I'm Kyler and I like to write code. 
-- 🌎 I'm from Ontario, Canada and currently working at D2L as a Software Developer. 
+- 🌎 I'm from Ontario, Canada!
 - 🏫 I study Computer Science at the University of Guelph.
-- 📚 I'm currently learning Golang and reinforcing my backend web development skills.
+- 📚 I'm currently learning Golang and reinforcing my backend development skills.
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=kyler-swanson&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4" alt="kyler-swanson's Top Languages" align="right" width="25%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyler-swanson" width="70%" />
 
 <!--
 **kyler-swanson/kyler-swanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
