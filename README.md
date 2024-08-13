@@ -1,6 +1,5 @@
 ## Hello world! 👋
 
-![](https://komarev.com/ghpvc/?username=kyler-swanson)
 [![Linkedin Badge](https://img.shields.io/badge/-kyler--swanson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyler-swanson/)](https://www.linkedin.com/in/kyler-swanson/)
 
 - 😁 I'm Kyler and I like to write code. 
